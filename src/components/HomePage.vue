@@ -205,6 +205,8 @@ import FooterView from './FooterView.vue';
         background-size: cover;
         /* background-position: center;   */
         background-position: 50% 50%;
+        width: 100%;
+        overflow-x: hidden;
     }
     .banner{
     background-color: #fff;
